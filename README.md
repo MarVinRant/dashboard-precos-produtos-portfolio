@@ -70,7 +70,7 @@ original.
 
 Aplicação publicada:
 
-https://dashboard-precos-rantech.streamlit.app/
+https://dashboard-precos-portfolio-rantech.streamlit.app/
 
 ![Dashboard de preços e produtos](docs/images/dashboard-overview.png)
 
